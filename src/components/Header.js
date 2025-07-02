@@ -29,7 +29,7 @@ function Header() {
         justifyContent: 'space-between',
         alignItems: 'center',
         backgroundColor: '#1c1c2e',
-        padding: '20px 30px',
+        padding: '30px 35px',
         borderRadius: '10px',
         color: '#fff',
         marginBottom: '20px',
