@@ -1,0 +1,36 @@
+.app {
+  background-color: #1d1f27;
+  color: #fff;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.dashboard {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  margin-top: 20px;
+}
+
+.card {
+  background-color: #2b2d3a;
+  padding: 20px;
+  border-radius: 10px;
+  flex: 1 1 300px;
+}
+
+.card h2 {
+  margin-bottom: 10px;
+  color: #ccc;
+}
+
+.list {
+  margin-top: 10px;
+}
+
+.list-item {
+  display: flex;
+  justify-content: space-between;
+  padding: 5px 0;
+  border-bottom: 1px solid #444;
+}
